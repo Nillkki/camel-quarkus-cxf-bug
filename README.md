@@ -1,0 +1,1 @@
+# camel-quarkus-cxf-bug
